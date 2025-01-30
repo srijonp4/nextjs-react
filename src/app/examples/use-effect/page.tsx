@@ -1,4 +1,4 @@
-const useEffectExample = (props: Props) => {
+const useEffectExample = () => {
   return <div>useEffectExample</div>;
 };
 
